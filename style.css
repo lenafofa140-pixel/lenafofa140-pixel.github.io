@@ -8,3 +8,8 @@ body{
     display: flex;
     height: 100vh;
 }
+
+img {
+    height: 200px;
+    width: auto;
+}
